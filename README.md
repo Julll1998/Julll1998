@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Julia
+- 👀 I’m interested in QA engineer
+- 💞️ I’m looking to collaborate on the field of testing
